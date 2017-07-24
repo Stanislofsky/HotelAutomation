@@ -1,0 +1,43 @@
+c:\users\alican\documents\visual studio 2017\Projects\OtelProje\OtelProje\bin\Debug\OtelProje.exe.config
+c:\users\alican\documents\visual studio 2017\Projects\OtelProje\OtelProje\bin\Debug\OtelProje.exe
+c:\users\alican\documents\visual studio 2017\Projects\OtelProje\OtelProje\bin\Debug\OtelProje.pdb
+c:\users\alican\documents\visual studio 2017\Projects\OtelProje\OtelProje\obj\Debug\OtelProje.csprojResolveAssemblyReference.cache
+c:\users\alican\documents\visual studio 2017\Projects\OtelProje\OtelProje\obj\Debug\OtelProje.Form1.resources
+c:\users\alican\documents\visual studio 2017\Projects\OtelProje\OtelProje\obj\Debug\OtelProje.Properties.Resources.resources
+c:\users\alican\documents\visual studio 2017\Projects\OtelProje\OtelProje\obj\Debug\OtelProje.Resepsiyon_İşlemleri.resources
+c:\users\alican\documents\visual studio 2017\Projects\OtelProje\OtelProje\obj\Debug\OtelProje.csproj.GenerateResource.Cache
+c:\users\alican\documents\visual studio 2017\Projects\OtelProje\OtelProje\obj\Debug\OtelProje.exe
+c:\users\alican\documents\visual studio 2017\Projects\OtelProje\OtelProje\obj\Debug\OtelProje.pdb
+C:\Users\Alican\documents\visual studio 2017\Projects\OtelProje\OtelProje\obj\Debug\OtelProje.İslemler.resources
+C:\Users\Alican\documents\visual studio 2017\Projects\OtelProje\OtelProje\obj\Debug\OtelProje.Etkinlikler.resources
+C:\Users\Alican\documents\visual studio 2017\Projects\OtelProje\OtelProje\obj\Debug\OtelProje.Odalar.resources
+C:\Users\Alican\documents\visual studio 2017\Projects\OtelProje\OtelProje\obj\Debug\OtelProje.Musteriler.resources
+C:\Users\Alican\documents\visual studio 2017\Projects\OtelProje\OtelProje\obj\Debug\OtelProje.AdminIslemleri.resources
+C:\Users\Alican\Desktop\OtelProje\OtelProje\bin\Debug\OtelProje.exe.config
+C:\Users\Alican\Desktop\OtelProje\OtelProje\obj\Debug\OtelProje.exe
+C:\Users\Alican\Desktop\OtelProje\OtelProje\obj\Debug\OtelProje.pdb
+C:\Users\Alican\Desktop\OtelProje\OtelProje\bin\Debug\OtelProje.exe
+C:\Users\Alican\Desktop\OtelProje\OtelProje\bin\Debug\OtelProje.pdb
+C:\Users\Alican\Desktop\OtelProje\OtelProje\obj\Debug\OtelProje.csprojResolveAssemblyReference.cache
+C:\Users\Alican\Desktop\OtelProje\OtelProje\obj\Debug\OtelProje.AdminIslemleri.resources
+C:\Users\Alican\Desktop\OtelProje\OtelProje\obj\Debug\OtelProje.Form1.resources
+C:\Users\Alican\Desktop\OtelProje\OtelProje\obj\Debug\OtelProje.Musteriler.resources
+C:\Users\Alican\Desktop\OtelProje\OtelProje\obj\Debug\OtelProje.Odalar.resources
+C:\Users\Alican\Desktop\OtelProje\OtelProje\obj\Debug\OtelProje.Properties.Resources.resources
+C:\Users\Alican\Desktop\OtelProje\OtelProje\obj\Debug\OtelProje.Resepsiyon_İşlemleri.resources
+C:\Users\Alican\Desktop\OtelProje\OtelProje\obj\Debug\OtelProje.İslemler.resources
+C:\Users\Alican\Desktop\OtelProje\OtelProje\obj\Debug\OtelProje.csproj.GenerateResource.Cache
+D:\ÇALIŞMALAR\OtelProje\OtelProje\bin\Debug\OtelProje.exe.config
+D:\ÇALIŞMALAR\OtelProje\OtelProje\obj\Debug\OtelProje.exe
+D:\ÇALIŞMALAR\OtelProje\OtelProje\obj\Debug\OtelProje.pdb
+D:\ÇALIŞMALAR\OtelProje\OtelProje\bin\Debug\OtelProje.exe
+D:\ÇALIŞMALAR\OtelProje\OtelProje\bin\Debug\OtelProje.pdb
+D:\ÇALIŞMALAR\OtelProje\OtelProje\obj\Debug\OtelProje.csprojResolveAssemblyReference.cache
+D:\ÇALIŞMALAR\OtelProje\OtelProje\obj\Debug\OtelProje.AdminIslemleri.resources
+D:\ÇALIŞMALAR\OtelProje\OtelProje\obj\Debug\OtelProje.Form1.resources
+D:\ÇALIŞMALAR\OtelProje\OtelProje\obj\Debug\OtelProje.Musteriler.resources
+D:\ÇALIŞMALAR\OtelProje\OtelProje\obj\Debug\OtelProje.Odalar.resources
+D:\ÇALIŞMALAR\OtelProje\OtelProje\obj\Debug\OtelProje.Properties.Resources.resources
+D:\ÇALIŞMALAR\OtelProje\OtelProje\obj\Debug\OtelProje.Resepsiyon_İşlemleri.resources
+D:\ÇALIŞMALAR\OtelProje\OtelProje\obj\Debug\OtelProje.İslemler.resources
+D:\ÇALIŞMALAR\OtelProje\OtelProje\obj\Debug\OtelProje.csproj.GenerateResource.Cache
